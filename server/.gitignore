@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Enivironment variables
+.env
+
+# package.lock
+package-lock.json
+
+# Docker
+.Dockerfile./
+.docker-compose.yml
+DockerDesktop/
